@@ -2,6 +2,8 @@
 
 `b2img` is a Linux-only utility for exploring binary files as images.
 
+> It's AI-Assisted clear-room copy of old CTF tool named GBS.
+
 - `gui/` contains the GTK4 frontend.
 - `core/` contains the decoding and analysis logic.
 - `io/` handles file loading and image export.
